@@ -6,5 +6,6 @@ class Program {
     string lastname = "Sudla";
     int age = 18;
     Console.WriteLine ("I am " + (firstname) + " " + ( lastname) + "And I am, " + age + "years old");
+    Console.WriteLine ("This is so cool");
   }
 }
